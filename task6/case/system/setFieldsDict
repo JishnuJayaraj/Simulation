@@ -1,0 +1,38 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  3.0.1                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.org                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      setFieldsDict;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+defaultFieldValues
+(
+    volScalarFieldValue alpha.water-glycerol 1
+);
+
+regions
+(
+    sphereToCell
+    {
+        centre (0.025 0.01  0.005);
+        radius 0.0025; 
+        fieldValues
+        (
+            volScalarFieldValue alpha.water-glycerol 0
+            volScalarFieldValue C  8
+        );
+    }
+);
+
+
+// ************************************************************************* //
