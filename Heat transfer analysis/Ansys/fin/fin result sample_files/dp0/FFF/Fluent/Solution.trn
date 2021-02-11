@@ -1,0 +1,57 @@
+
+Build Time: Sep 21 2012 18:36:14  Build Id: 10329 
+Executable Path: C:/PROGRA~1/ANSYSI~1/v145/fluent/ntbin/win64/fluent.exe
+Reading Settings file E:institutionsreekrishnnapuramfin_filesdp0FFFFluentFFF.set...
+Reading "E:institutionsreekrishnnapuramfin_filesdp0FFFMECHFFF.1.msh"...
+   50293 nodes, binary.
+   10115 nodes, binary.
+    2480 quadrilateral wall faces, zone  1, binary.
+   10720 quadrilateral interior faces, zone  2, binary.
+  597953 triangular interior faces, zone  3, binary.
+      80 quadrilateral wall faces, zone  8, binary.
+   20066 triangular pressure-outlet faces, zone  9, binary.
+    4000 hexahedral cells, zone  4, binary.
+  303993 mixed cells, zone  5, binary.
+
+Building...
+     mesh
+Note: Slitting wall zone 1 into a coupled wall.
+ 
+     materials,
+     interface,
+     domains,
+	mixture
+     zones,
+	wall-part-air-part-fin-shadow
+	outlet
+	base
+	part-air
+	part-fin
+	interior-part-air
+	interior-part-fin
+	wall-part-air-part-finSetting part-fin (mixture) ... Done.
+Setting part-air (mixture) ... Done.
+ Setting zone id of part-fin to 4.
+ Setting zone id of part-air to 5.
+ Setting zone id of wall-part-air-part-fin to 1.
+ Setting zone id of interior-part-fin to 2.
+ Setting zone id of interior-part-air to 3.
+ Setting zone id of base to 8.
+ Setting zone id of outlet to 9.
+ Setting zone id of wall-part-air-part-fin-shadow to 7.
+Done.
+Setting part-fin (mixture) ... Done.
+Setting part-air (mixture) ... Done.
+Setting wall-part-air-part-fin (mixture) ... Done.
+Setting interior-part-fin (mixture) ... Done.
+Setting interior-part-air (mixture) ... Done.
+Setting base (mixture) ... Done.
+Setting outlet (mixture) ... Done.
+Setting wall-part-air-part-fin-shadow (mixture) ... Done.
+
+Done.
+
+Preparing mesh for display...
+Done.
+
+Setting Post Processing and Surfaces information ...	 Done.
