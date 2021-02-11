@@ -1,0 +1,2159 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.17)  14 JUN 2018 22:58
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+(preamble.tex ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks21
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\nomencl\nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen122
+\nom@tempdim=\dimen123
+\nomitemsep=\skip55
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen124
+\calc@Bdimen=\dimen125
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count107
+\calc@Cskip=\skip58
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-node\pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count108
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex"
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count109
+\pstFP@xia=\count110
+\pstFP@xib=\count111
+\pstFP@xfa=\count112
+\pstFP@xfb=\count113
+\pstFP@rega=\count114
+\pstFP@regb=\count115
+\pstFP@regs=\count116
+\pstFP@times=\count117
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen126
+\pgfutil@tempdimb=\dimen127
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex
+\pgf@x=\dimen128
+\pgf@xa=\dimen129
+\pgf@xb=\dimen130
+\pgf@xc=\dimen131
+\pgf@y=\dimen132
+\pgf@ya=\dimen133
+\pgf@yb=\dimen134
+\pgf@yc=\dimen135
+\c@pgf@counta=\count118
+\c@pgf@countb=\count119
+\c@pgf@countc=\count120
+\c@pgf@countd=\count121
+\pgfutil@tempcnta=\count122
+\pgfutil@tempcntb=\count123
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen136
+\pgfmath@count=\count124
+\pgfmath@box=\box28
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count125
+))
+\pgffor@iter=\dimen137
+\pgffor@skip=\dimen138
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+)
+\psLoopIndex=\count126
+
+`PSTricks' v2.64b  <2015/14/11> (tvz)
+\pst@dima=\dimen139
+\pst@dimb=\dimen140
+\pst@dimc=\dimen141
+\pst@dimd=\dimen142
+\pst@dimg=\dimen143
+\pst@dimh=\dimen144
+\pst@dimm=\dimen145
+\pst@dimn=\dimen146
+\pst@dimo=\dimen147
+\pst@dimp=\dimen148
+\pst@hbox=\box29
+\pst@ibox=\box30
+\pst@boxg=\box31
+\pst@cnta=\count127
+\pst@cntb=\count128
+\pst@cntc=\count129
+\pst@cntd=\count130
+\pst@cntg=\count131
+\pst@cnth=\count132
+\pst@cntm=\count133
+\pst@cntn=\count134
+\pst@cnto=\count135
+\pst@cntp=\count136
+\@zero=\count137
+\pst@toks=\toks33
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.con")
+\psunit=\dimen149
+\psxunit=\dimen150
+\psyunit=\dimen151
+\pst@C@@rType=\count138
+\pslinewidth=\dimen152
+\psk@startLW=\dimen153
+\psk@endLW=\dimen154
+\pst@customdefs=\toks34
+\pslinearc=\dimen155
+\pst@symbolStep=\dimen156
+\pst@symbolWidth=\dimen157
+\pst@symbolLinewidth=\dimen158
+\everypsbox=\toks35
+\psframesep=\dimen159
+\pslabelsep=\dimen160
+\sh@wgridXunit=\dimen161
+\sh@wgridYunit=\dimen162
+\pst@shift=\dimen163
+)
+File: pstricks.tex 2015/14/11 v2.64b `PSTricks' (tvz,hv)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2015/14/11 v2.64b `PST-fp' (hv)
+)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-node\pst-node.tex
+ v1.36, 2016/04/24
+\psrow=\count139
+\pscol=\count140
+\psmatrixcnt=\count141
+\psrowsep=\skip59
+\pscolsep=\skip60
+\pst@args=\count142
+\num@pts=\count143
+\pst@argcnt=\count144
+)
+File: pst-node.tex 2016/04/24 1.36 `pst-node' (tvz,hv)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box32
+ (C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex)
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count145
+\c@pgf@countb=\count146
+\c@pgf@countc=\count147
+\c@pgf@countd=\count148
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count151
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen192
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen196
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count152
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box36
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box37
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen258
+)
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box42
+\shadowsize=\dimen265
+\@Sbox=\box43
+\do@VerbBox=\toks42
+\the@fancyput=\toks43
+\this@fancyput=\toks44
+\EndVerbatimTokens=\toks45
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read2
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\background\background.sty
+Package: background 2014/03/04 v2.1 background material
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\everypage\everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks46
+\AP@partial=\box44
+\AP@footins=\box45
+))
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen266
+\captionmargin@=\dimen267
+\captionwidth=\dimen268
+\caption@tempdima=\dimen269
+\caption@indent=\dimen270
+\caption@parindent=\dimen271
+\caption@hangindent=\dimen272
+)
+\c@ContinuedFloat=\count162
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count163
+\c@subtable=\count164
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+\@indexfile=\write5
+\openout5 = `report.idx'.
+
+
+Writing index file report.idx
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\AM@pagewidth=\dimen273
+\AM@pageheight=\dimen274
+
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box46
+\AM@global@opts=\toks47
+\AM@toc@title=\toks48
+\c@AM@survey=\count165
+\AM@templatesizebox=\box47
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box48
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen275
+\ttl@minus=\dimen276
+\ttl@toksa=\toks49
+\titlewidth=\dimen277
+\titlewidthlast=\dimen278
+\titlewidthfirst=\dimen279
+))
+(report.aux
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:Meshing' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:Meshing' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:structured' multiply defined.
+
+
+LaTeX Warning: Label `fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:unstructured' multiply defined.
+
+
+LaTeX Warning: Label `fig:Meshing' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+
+LaTeX Warning: Label `ss' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 12.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\MODEL\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count166
+\scratchdimen=\dimen280
+\scratchbox=\box49
+\nofMPsegments=\count167
+\nofMParguments=\count168
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count169
+\MPscratchDim=\dimen281
+\MPnumerator=\count170
+\makeMPintoPDFobject=\count171
+\everyMPtoPDFconversion=\toks51
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 424.06032pt, 65.04256pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=424.06032pt
+* \textheight=700.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-31.8738pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box50
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+(frontmatter.tex (titlepage.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+
+! Undefined control sequence.
+l.47 ...uthora } ~ {\large \rmfamily \bf \vauthorb
+                                                   } \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 {\large \rmfamily \bf \vauthorc
+                                     }  ~{\large \rmfamily \bf \vauthord }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 ...uthorc }  ~{\large \rmfamily \bf \vauthord
+                                                   }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.49 {\large \rmfamily \bf \vauthore
+                                     } ~{\large \rmfamily \bf \vauthorf }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.49 ...authore } ~{\large \rmfamily \bf \vauthorf
+                                                   }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.50 {\large \rmfamily \bf \vauthorg
+                                     } ~{\large \rmfamily \bf \vauthorh }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.50 ...authorg } ~{\large \rmfamily \bf \vauthorh
+                                                   }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<geclogo.png, id=4, 128.4435pt x 108.0765pt>
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 57.
+(pdftex.def)             Requested size: 128.0374pt x 107.73816pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 66.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+{C:/Users/MODEL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./geclogo.p
+ng>]) (certificate.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+euf on input line 33.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\ueuf.fd"
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+[1
+
+
+]) (undertaking.tex
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 40.
+(pdftex.def)             Requested size: 99.58464pt x 83.79634pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[1
+
+
+]) (acknowledgment.tex
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+))
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 59.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+[1
+
+
+]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 72.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2
+
+] (report.toc
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 21.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3
+
+]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 59.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4])
+\tf@toc=\write6
+\openout6 = `report.toc'.
+
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 74.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5] (report.lof)
+\tf@lof=\write7
+\openout7 = `report.lof'.
+
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 76.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6
+
+] (report.lot)
+\tf@lot=\write8
+\openout8 = `report.lot'.
+
+ (nomen.tex
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 17.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7
+
+])
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 80.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8
+
+]
+Chapter 1.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 98.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 140.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 174.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 214.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 226.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+Chapter 2.
+<101.jpg, id=67, 1100.11pt x 399.4925pt>
+File: 101.jpg Graphic file (type jpg)
+ <use 101.jpg>
+Package pdftex.def Info: 101.jpg used on input line 235.
+(pdftex.def)             Requested size: 398.33858pt x 144.6523pt.
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 240.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5
+
+ <./101.jpg>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 325.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+Chapter 3.
+<102.jpg, id=74, 2187.17125pt x 2355.80125pt>
+File: 102.jpg Graphic file (type jpg)
+ <use 102.jpg>
+Package pdftex.def Info: 102.jpg used on input line 336.
+(pdftex.def)             Requested size: 170.71652pt x 183.86679pt.
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 355.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7
+
+ <./102.jpg>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 394.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 430.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 450.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+Chapter 4.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 470.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11
+
+] <103.jpg, id=92, 751.30687pt x 451.6875pt>
+File: 103.jpg Graphic file (type jpg)
+ <use 103.jpg>
+Package pdftex.def Info: 103.jpg used on input line 475.
+(pdftex.def)             Requested size: 284.52756pt x 171.05719pt.
+File: geclogo.png Graphic file (type png)
+
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 486.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12 <./103.jpg>] <104.jpg, id=96, 274.626pt x 218.61674pt>
+File: 104.jpg Graphic file (type jpg)
+ <use 104.jpg>
+Package pdftex.def Info: 104.jpg used on input line 495.
+(pdftex.def)             Requested size: 284.52756pt x 226.49873pt.
+File: geclogo.png Graphic file (type png)
+
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 511.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13 <./104.jpg>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 518.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 535.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--553
+
+ []
+
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 569.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 606--608
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--621
+
+ []
+
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 621.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 635.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18] <105.jpg, id=116, 127.97812pt x 115.18031pt>
+File: 105.jpg Graphic file (type jpg)
+ <use 105.jpg>
+Package pdftex.def Info: 105.jpg used on input line 640.
+(pdftex.def)             Requested size: 127.21938pt x 114.4981pt.
+
+<106.jpg, id=117, 127.97812pt x 116.68594pt>
+File: 106.jpg Graphic file (type jpg)
+ <use 106.jpg>
+Package pdftex.def Info: 106.jpg used on input line 647.
+(pdftex.def)             Requested size: 127.21938pt x 115.9948pt.
+
+<107.jpg, id=118, 874.467pt x 342.68025pt>
+File: 107.jpg Graphic file (type jpg)
+ <use 107.jpg>
+Package pdftex.def Info: 107.jpg used on input line 680.
+(pdftex.def)             Requested size: 426.79134pt x 167.25072pt.
+
+Overfull \hbox (2.73102pt too wide) in paragraph at lines 680--681
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 701.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19 <./105.jpg> <./106.jpg>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 737.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20 <./107.jpg>] <108.jpg, id=126, 963.6pt x 722.7pt>
+File: 108.jpg Graphic file (type jpg)
+ <use 108.jpg>
+Package pdftex.def Info: 108.jpg used on input line 745.
+(pdftex.def)             Requested size: 284.52756pt x 213.39314pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<109.jpg, id=127, 963.6pt x 722.7pt>
+File: 109.jpg Graphic file (type jpg)
+ <use 109.jpg>
+Package pdftex.def Info: 109.jpg used on input line 757.
+(pdftex.def)             Requested size: 284.52756pt x 213.39314pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 767.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 783.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./108.jpg>] <110.png, id=134, 531.1845pt x 307.74976pt>
+File: 110.png Graphic file (type png)
+ <use 110.png>
+Package pdftex.def Info: 110.png used on input line 800.
+(pdftex.def)             Requested size: 312.9803pt x 181.33598pt.
+
+<111.png, id=135, 528.17325pt x 305.943pt>
+File: 111.png Graphic file (type png)
+ <use 111.png>
+Package pdftex.def Info: 111.png used on input line 812.
+(pdftex.def)             Requested size: 312.9803pt x 181.2984pt.
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 814.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23 <./109.jpg> <./110.png>] <112.png, id=140, 528.7755pt x 308.95425pt>
+File: 112.png Graphic file (type png)
+
+<use 112.png>
+Package pdftex.def Info: 112.png used on input line 825.
+(pdftex.def)             Requested size: 312.9803pt x 182.87541pt.
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 837.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./111.png> <./112.png>]
+Chapter 5.
+<113.png, id=146, 397.485pt x 205.36725pt>
+File: 113.png Graphic file (type png)
+ <use 113.png>
+Package pdftex.def Info: 113.png used on input line 846.
+(pdftex.def)             Requested size: 312.9803pt x 161.71188pt.
+
+<114.png, id=147, 399.894pt x 203.5605pt>
+File: 114.png Graphic file (type png)
+ <use 114.png>
+Package pdftex.def Info: 114.png used on input line 853.
+(pdftex.def)             Requested size: 312.9803pt x 159.32321pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<115.png, id=148, 395.076pt x 201.1515pt>
+File: 115.png Graphic file (type png)
+ <use 115.png>
+Package pdftex.def Info: 115.png used on input line 860.
+(pdftex.def)             Requested size: 312.9803pt x 159.35605pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<116.png, id=149, 397.485pt x 203.5605pt>
+File: 116.png Graphic file (type png)
+ <use 116.png>
+Package pdftex.def Info: 116.png used on input line 867.
+(pdftex.def)             Requested size: 312.9803pt x 160.2892pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<117.png, id=150, 392.667pt x 199.947pt>
+File: 117.png Graphic file (type png)
+ <use 117.png>
+Package pdftex.def Info: 117.png used on input line 874.
+(pdftex.def)             Requested size: 312.9803pt x 159.37202pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 881.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25
+
+ <./113.png>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 886.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26 <./114.png> <./115.png>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 886.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27 <./116.png> <./117.png>]
+Chapter 6.
+File: 110.png Graphic file (type png)
+<use 110.png>
+Package pdftex.def Info: 110.png used on input line 893.
+(pdftex.def)             Requested size: 212.03015pt x 122.84413pt.
+ <121.jpg, id=166, 524.55975pt x 308.352pt>
+File: 121.jpg Graphic file (type jpg)
+ <use 121.jpg>
+Package pdftex.def Info: 121.jpg used on input line 899.
+(pdftex.def)             Requested size: 212.03015pt x 124.6372pt.
+
+<1211.jpg, id=167, 528.17325pt x 311.36325pt>
+File: 1211.jpg Graphic file (type jpg)
+ <use 1211.jpg>
+Package pdftex.def Info: 1211.jpg used on input line 906.
+(pdftex.def)             Requested size: 212.03015pt x 124.98969pt.
+
+<122.jpg, id=168, 528.17325pt x 309.5565pt>
+File: 122.jpg Graphic file (type jpg)
+ <use 122.jpg>
+Package pdftex.def Info: 122.jpg used on input line 913.
+(pdftex.def)             Requested size: 212.03015pt x 124.2644pt.
+
+<123.jpg, id=169, 529.98pt x 306.54526pt>
+File: 123.jpg Graphic file (type jpg)
+ <use 123.jpg>
+Package pdftex.def Info: 123.jpg used on input line 920.
+(pdftex.def)             Requested size: 212.03015pt x 122.63931pt.
+
+<124.jpg, id=170, 526.3665pt x 311.9655pt>
+File: 124.jpg Graphic file (type jpg)
+ <use 124.jpg>
+Package pdftex.def Info: 124.jpg used on input line 927.
+(pdftex.def)             Requested size: 212.03015pt x 125.66463pt.
+
+<125.jpg, id=171, 528.17325pt x 307.74976pt>
+File: 125.jpg Graphic file (type jpg)
+ <use 125.jpg>
+Package pdftex.def Info: 125.jpg used on input line 934.
+(pdftex.def)             Requested size: 212.03015pt x 123.53912pt.
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 898--938
+ [][]  [] 
+ []
+
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 898--938
+ []  [] 
+ []
+
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 898--938
+ []  [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+File: 111.png Graphic file (type png)
+<use 111.png>
+Package pdftex.def Info: 111.png used on input line 956.
+(pdftex.def)             Requested size: 212.03015pt x 122.81384pt.
+ <133.jpg, id=172, 529.37775pt x 307.1475pt>
+File: 133.jpg Graphic file (type jpg)
+ <use 133.jpg>
+Package pdftex.def Info: 133.jpg used on input line 962.
+(pdftex.def)             Requested size: 212.03015pt x 123.02084pt.
+
+<134.jpg, id=173, 527.571pt x 307.1475pt>
+File: 134.jpg Graphic file (type jpg)
+ <use 134.jpg>
+Package pdftex.def Info: 134.jpg used on input line 969.
+(pdftex.def)             Requested size: 212.03015pt x 123.44266pt.
+
+<135.jpg, id=174, 529.98pt x 308.95425pt>
+File: 135.jpg Graphic file (type jpg)
+ <use 135.jpg>
+Package pdftex.def Info: 135.jpg used on input line 976.
+(pdftex.def)             Requested size: 212.03015pt x 123.60307pt.
+
+<136.jpg, id=175, 524.55975pt x 307.1475pt>
+File: 136.jpg Graphic file (type jpg)
+ <use 136.jpg>
+Package pdftex.def Info: 136.jpg used on input line 983.
+(pdftex.def)             Requested size: 212.03015pt x 124.15034pt.
+
+<137.jpg, id=176, 526.3665pt x 306.54526pt>
+File: 137.jpg Graphic file (type jpg)
+ <use 137.jpg>
+Package pdftex.def Info: 137.jpg used on input line 990.
+(pdftex.def)             Requested size: 212.03015pt x 123.48126pt.
+
+<138.jpg, id=177, 527.571pt x 311.36325pt>
+File: 138.jpg Graphic file (type jpg)
+ <use 138.jpg>
+Package pdftex.def Info: 138.jpg used on input line 997.
+(pdftex.def)             Requested size: 212.03015pt x 125.13696pt.
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 961--1001
+ [][]  [] 
+ []
+
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 961--1001
+ []  [] 
+ []
+
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 961--1001
+ []  [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1012.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28
+
+] <126.jpg, id=181, 963.6pt x 722.7pt>
+File: 126.jpg Graphic file (type jpg)
+ <use 126.jpg>
+Package pdftex.def Info: 126.jpg used on input line 1017.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+<127.jpg, id=182, 963.6pt x 722.7pt>
+File: 127.jpg Graphic file (type jpg)
+ <use 127.jpg>
+Package pdftex.def Info: 127.jpg used on input line 1023.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+<128.jpg, id=183, 963.6pt x 722.7pt>
+File: 128.jpg Graphic file (type jpg)
+ <use 128.jpg>
+Package pdftex.def Info: 128.jpg used on input line 1030.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+<129.jpg, id=184, 963.6pt x 722.7pt>
+File: 129.jpg Graphic file (type jpg)
+ <use 129.jpg>
+Package pdftex.def Info: 129.jpg used on input line 1037.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+<130.jpg, id=185, 963.6pt x 722.7pt>
+File: 130.jpg Graphic file (type jpg)
+ <use 130.jpg>
+Package pdftex.def Info: 130.jpg used on input line 1044.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+<131.jpg, id=186, 963.6pt x 722.7pt>
+File: 131.jpg Graphic file (type jpg)
+ <use 131.jpg>
+Package pdftex.def Info: 131.jpg used on input line 1051.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+<132.jpg, id=187, 963.6pt x 722.7pt>
+File: 132.jpg Graphic file (type jpg)
+ <use 132.jpg>
+Package pdftex.def Info: 132.jpg used on input line 1058.
+(pdftex.def)             Requested size: 212.03015pt x 159.01654pt.
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 1022--1062
+ [][]  [] 
+ []
+
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 1022--1062
+ []  [] 
+ []
+
+
+Overfull \hbox (4.56004pt too wide) in paragraph at lines 1022--1062
+ []  [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 55.95924pt on input line 1066.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1108.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1108.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1108.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31 <./121.jpg> <./1211.jpg> <./122.jpg> <./123.jpg> <./124.jpg> <./125.jpg>]
+File: geclogo.png Graphic file (type png)
+
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1108.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32 <./133.jpg> <./134.jpg> <./135.jpg> <./136.jpg> <./137.jpg> <./138.jpg>]
+File: geclogo.png Graphic file (type png)
+
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1108.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33 <./126.jpg> <./127.jpg> <./128.jpg> <./129.jpg> <./130.jpg> <./131.jpg> <./
+132.jpg>]
+Chapter 7.
+<119.png, id=204, 696.4844pt x 356.68742pt>
+File: 119.png Graphic file (type png)
+ <use 119.png>
+Package pdftex.def Info: 119.png used on input line 1116.
+(pdftex.def)             Requested size: 312.9803pt x 160.2847pt.
+
+<120.png, id=205, 594.0594pt x 356.13464pt>
+File: 120.png Graphic file (type png)
+ <use 120.png>
+Package pdftex.def Info: 120.png used on input line 1123.
+(pdftex.def)             Requested size: 312.9803pt x 187.63646pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<118.png, id=206, 559.7516pt x 347.03236pt>
+File: 118.png Graphic file (type png)
+ <use 118.png>
+Package pdftex.def Info: 118.png used on input line 1130.
+(pdftex.def)             Requested size: 312.9803pt x 194.03496pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1136.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34
+
+ <./119.png>]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1136.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35 <./120.png> <./118.png>]
+Chapter 8.
+File: geclogo.png Graphic file (type png)
+<use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 1160.
+(pdftex.def)             Requested size: 14.22636pt x 11.96925pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.31929pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ (lastpage.tex [37
+
+
+
+]
+File: geclogo.png Graphic file (type png)
+ <use geclogo.png>
+Package pdftex.def Info: geclogo.png used on input line 18.
+(pdftex.def)             Requested size: 71.13188pt x 59.85452pt.
+) [38] (report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 18024 strings out of 493634
+ 332482 string characters out of 3143744
+ 513578 words of memory out of 3000000
+ 20955 multiletter control sequences out of 15000+200000
+ 38637 words of font info for 94 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 56i,16n,92p,1179b,1036s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmr8a.pfb>
+Output written on report.pdf (49 pages, 3437632 bytes).
+PDF statistics:
+ 270 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+

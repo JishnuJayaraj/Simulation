@@ -1,0 +1,60 @@
+\contentsline {chapter}{\hskip 1em\relax Certificate}{}
+\contentsline {chapter}{\hskip 1em\relax Undertaking}{}
+\contentsline {chapter}{\hskip 1em\relax Acknowledgement}{i}
+\contentsline {chapter}{\hskip 1em\relax Abstract}{ii}
+\contentsline {chapter}{\hskip 1em\relax List of Figures}{v}
+\contentsline {chapter}{\hskip 1em\relax List of Tables}{vi}
+\contentsline {chapter}{\hskip 1em\relax List of Symbols and Abbreviations}{vii}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}Motivation}{2}
+\contentsline {section}{\numberline {1.2}Literature review}{2}
+\contentsline {section}{\numberline {1.3}Methodologies}{4}
+\contentsline {chapter}{\numberline {2}PROBLEM DESCRIPTION}{5}
+\contentsline {section}{\numberline {2.1}Project background}{5}
+\contentsline {section}{\numberline {2.2}Objective}{6}
+\contentsline {section}{\numberline {2.3}Scope}{6}
+\contentsline {chapter}{\numberline {3}GOVERNING EQUATION}{7}
+\contentsline {section}{\numberline {3.1}Basic fin equations}{7}
+\contentsline {section}{\numberline {3.2}Governing Differential Equation }{8}
+\contentsline {subsection}{\numberline {3.2.1}Energy equation}{9}
+\contentsline {subsection}{\numberline {3.2.2}Momentum Equation}{10}
+\contentsline {subsection}{\numberline {3.2.3}Conservation Of Mass}{10}
+\contentsline {chapter}{\numberline {4}NUMERICAL ANALYSIS}{11}
+\contentsline {section}{\numberline {4.1}Grid Independence Study}{11}
+\contentsline {section}{\numberline {4.2}Plate Fin Base Line Study}{12}
+\contentsline {subsection}{\numberline {4.2.1}Modelling}{13}
+\contentsline {subsection}{\numberline {4.2.2}Solution Technique}{14}
+\contentsline {subsubsection}{Flow Approximations}{14}
+\contentsline {subsubsection}{The Boussinesq Approximation }{15}
+\contentsline {subsection}{\numberline {4.2.3}Boundary Condition}{16}
+\contentsline {section}{\numberline {4.3}Meshing}{17}
+\contentsline {subsection}{\numberline {4.3.1}Mesh Quality}{17}
+\contentsline {subsection}{\numberline {4.3.2}Grid Classification}{18}
+\contentsline {subsubsection}{Structured grids}{18}
+\contentsline {subsubsection}{Unstructured grids}{18}
+\contentsline {subsubsection}{Hybrid grids}{18}
+\contentsline {subsection}{\numberline {4.3.3}Mesh Properties}{19}
+\contentsline {subsubsection}{Skewness}{19}
+\contentsline {subsubsection}{Aspect ratio}{19}
+\contentsline {section}{\numberline {4.4}Data Reduction}{20}
+\contentsline {subsection}{\numberline {4.4.1}CFD Analysis}{20}
+\contentsline {subsection}{\numberline {4.4.2}Solution}{21}
+\contentsline {subsection}{\numberline {4.4.3}Temperature Plot}{21}
+\contentsline {subsection}{\numberline {4.4.4}Heat transfer coefficient plot}{21}
+\contentsline {section}{\numberline {4.5}Result And Discussion}{22}
+\contentsline {subsection}{\numberline {4.5.1}Base temperature}{22}
+\contentsline {subsection}{\numberline {4.5.2} Effective heat transfer Coefficient}{22}
+\contentsline {subsection}{\numberline {4.5.3}Contours}{23}
+\contentsline {subsubsection}{Temperature Contour}{23}
+\contentsline {subsubsection}{Velocity Contour}{24}
+\contentsline {subsubsection}{Velocity Vector Contour}{24}
+\contentsline {chapter}{\numberline {5}EFFECT OF HOLES ON PLATE FIN}{25}
+\contentsline {section}{\numberline {5.1}Modelling}{25}
+\contentsline {section}{\numberline {5.2}Solution Technique}{25}
+\contentsline {chapter}{\numberline {6}RESULT AND DISCUSSION}{28}
+\contentsline {section}{\numberline {6.1}Effect Of Radius}{28}
+\contentsline {section}{\numberline {6.2}Optimization}{29}
+\contentsline {section}{\numberline {6.3}Performance Comparison}{29}
+\contentsline {chapter}{\numberline {7}Conclusion}{34}
+\contentsline {chapter}{\numberline {8}Future Scope}{36}
+\contentsline {chapter}{\hskip 1em\relax Bibliography}{37}

@@ -1,0 +1,44 @@
+
+\pagestyle{empty}
+\input{titlepage}
+\clearpage
+
+
+\pagenumbering{gobble}
+%\pagestyle{empty}
+\addcontentsline{toc}{chapter}{\quad Certificate}
+\input{certificate}
+\clearpage
+
+%\pagestyle{empty}
+\addcontentsline{toc}{chapter}{\quad Undertaking}
+\input{undertaking}
+\clearpage
+
+
+
+%   Redefining plain page style
+%  
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyhead[L]{{\scriptsize \vtitle}}
+\fancyhead[R]{\includegraphics[width=0.5cm]{geclogo.png}}
+%\fancyfoot[C]{\bfseries \thepage} 
+\fancyfoot[L]{{\footnotesize Department of Mechanical Engg.}}
+\fancyfoot[R]{\footnotesize GEC, Sreekrishnapuram}
+\fancyfoot[C]{\footnotesize \bf \thepage}%
+\renewcommand{\headrulewidth}{1pt}%
+\renewcommand{\footrulewidth}{1pt}%
+}%
+%
+
+\pagenumbering{roman}
+
+\pagestyle{plain}
+\addcontentsline{toc}{chapter}{\quad Acknowledgement}
+\input{acknowledgment}
+
+
+
+
+
